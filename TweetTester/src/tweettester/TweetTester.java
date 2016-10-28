@@ -21,6 +21,12 @@ public class TweetTester {
         Scanner scan = new Scanner (System.in);
          String tweet;
          
+         tweet = scan.nextLine();
+                 
+         System.out.println(tweet.length());
+         
+         
+         
     }
     
 }
