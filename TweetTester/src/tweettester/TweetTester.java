@@ -9,7 +9,7 @@ import java.util.Scanner;
 import java.lang.Math; 
 /**
  * @class  AP CSA
- * @author INSERT YOUR NAME HERE
+ * @author Dhruv Prasad
  */
 public class TweetTester {
 
@@ -21,9 +21,9 @@ public class TweetTester {
         Scanner scan = new Scanner (System.in);
          String tweet;
          
-         tweet = scan.nextLine();
+         tweet = scan.nextLine();  //Scanning line for user input
                  
-         System.out.println(tweet.length());
+         System.out.println(tweet.length());  //Printing character length
          
          
          
